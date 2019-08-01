@@ -1,0 +1,2 @@
+live-server: to start a live view wihtout need to refresh
+npm run compile:sass : to start translate from sass to css automaticaly
